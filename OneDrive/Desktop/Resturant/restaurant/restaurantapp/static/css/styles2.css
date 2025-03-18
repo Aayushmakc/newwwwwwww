@@ -1,0 +1,290 @@
+/* privacy section starts here  */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 32px;
+    color: #d32f2f; /* Momo theme red */
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #d32f2f;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d32f2f;
+    color: white;
+    font-size: 14px;
+}
+
+/* privacy section ends here  */
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 32px;
+    color: #d32f2f; /* Momo restaurant theme */
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #d32f2f;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #d32f2f;
+    color: white;
+    font-size: 14px;
+}
+
+
+/* support styles starts here */
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Header */
+header {
+    background-color: #d32f2f; /* Red theme for Momo Restaurant */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+/* Main Content */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Sections */
+section {
+    margin-bottom: 30px;
+}
+
+h2 {
+    color: #d32f2f;
+    font-size: 24px;
+    border-bottom: 2px solid #d32f2f;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* Contact Information */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+a {
+    color: #d32f2f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* FAQ Section */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #f5f5f5;
+    padding: 10px;
+    margin: 5px 0;
+    border-left: 4px solid #d32f2f;
+    font-size: 16px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background-color: #d32f2f;
+    color: white;
+    padding: 15px 0;
+    font-size: 14px;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    main {
+        width: 90%;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+}
+
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Header */
+.support-header {
+    background-color: #d32f2f; /* Red theme for Momo Restaurant */
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Main Content */
+.support-main {
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Sections */
+.support-section {
+    margin-bottom: 30px;
+}
+
+.support-title {
+    color: #d32f2f;
+    font-size: 24px;
+    border-bottom: 2px solid #d32f2f;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+/* Contact Information */
+.support-text {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.support-link {
+    color: #d32f2f;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.support-link:hover {
+    text-decoration: underline;
+}
+
+/* FAQ Section */
+.support-faq {
+    list-style-type: none;
+    padding: 0;
+}
+
+.support-faq-item {
+    background: #f5f5f5;
+    padding: 10px;
+    margin: 5px 0;
+    border-left: 4px solid #d32f2f;
+    font-size: 16px;
+}
+
+/* Footer */
+.support-footer {
+    text-align: center;
+    background-color: #d32f2f;
+    color: white;
+    padding: 15px 0;
+    font-size: 14px;
+}
+
+.support-footer-text {
+    margin: 0;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .support-main {
+        width: 90%;
+        padding: 15px;
+    }
+
+    .support-title {
+        font-size: 20px;
+    }
+}
